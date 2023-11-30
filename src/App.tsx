@@ -1,7 +1,6 @@
 import Header from "./components/Header";
 import Article from "./components/Article";
 import Footer from "./components/Footer";
-import logo from "./assets/images.png";
 import bracelete1 from "./assets/B1-2A.jpg"
 
 import { useState, useEffect } from "react";
